@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(10, 10, 10);
+}
+
+.contenitore{
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.contenitore img{
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.titolo img{
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
